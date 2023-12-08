@@ -1,0 +1,35 @@
+Test cases:
+
+Empty Password
+Empty Username
+Empty Username And Password
+Invalid Username
+Invalid Password
+Invalid Username And Password
+
+By giving invalid username & password
+
+Login With Empty Password Should Fail
+Login With Empty Username Should Fail
+Login With Empty Username And Password Should Fail
+Login With Invalid Username Should Fail
+Login With Invalid Password Should Fail
+Login With Invalid Username And Invalid Password Should Fail
+Login with Correct Username and Password should Pass
+
+Test Cases                                 Pass/Fail
+
+To verify Home Page should be visible       - Pass
+Not visible                                 - Fail
+To Verify Search option                     - Pass
+Not visible                                 - Fail
+all job types should be availabe            - pass
+To verify Profile creation                  - Pass
+Not available                               - Fail
+To verify Open to work available            - Pass
+To verify Post,Comments Likes should available -pass
+Verify Skill assessment should visible       -Pass
+
+
+
+ 
