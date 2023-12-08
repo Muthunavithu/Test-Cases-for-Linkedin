@@ -19,16 +19,43 @@ Login with Correct Username and Password should Pass
 
 Test Cases                                 Pass/Fail
 
-To verify Home Page should be visible       - Pass
-Not visible                                 - Fail
-To Verify Search option                     - Pass
-Not visible                                 - Fail
-all job types should be availabe            - pass
 To verify Profile creation                  - Pass
-Not available                               - Fail
+To verify profile creation Not available    - Fail
+To check name should be Entered             - pass
+To check college name should be entered     - pass
+To verify work experience company details should be entered - pass
+To check degree option should be visible -pass
+To verify Home Page should be visible       - Pass
+Home page Not visible                                 - Fail
+To Verify Search option                     - Pass
+Serach option Not visible                                 - Fail
+ All job types should be availabe            - pass
 To verify Open to work available            - Pass
 To verify Post,Comments Likes should available -pass
-Verify Skill assessment should visible       -Pass
+To Verify Skill assessment should visible       -Pass
+To Verify Connect peoples should be visible     - pass
+To verify Courses ,skills add option should be visible -pass
+To Verify Search option should be visible         - pass
+To verify option not visible                     -fail
+To verify Skill assessment,Jobs should be visible -pass
+Verify resume creation is visible               -pass
+To verify Upload resume,pdf,Word should be visible     -pass
+To verify Job application should be visible    -pass
+To verify hiring hr profile should be available -pass
+To verify Skill assessment is visible                -pass
+To verify message option should be visible -pass
+To verify profile about option should be available  -pass
+To verify job location,experience or fresher,internship option should be available - pass
+To verify profile viewers should be visible -pass
+
+
+
+
+
+
+
+
+
 
 
 
