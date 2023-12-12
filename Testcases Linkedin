@@ -36,7 +36,7 @@ To Verify Skill assessment should visible       -Pass
 To Verify Connect peoples should be visible     - pass
 To verify Courses ,skills add option should be visible -pass
 To Verify Search option should be visible         - pass
-To verify option not visible                     -fail
+To verify search option not visible                     -fail
 To verify Skill assessment,Jobs should be visible -pass
 Verify resume creation is visible               -pass
 To verify Upload resume,pdf,Word should be visible     -pass
@@ -47,6 +47,10 @@ To verify message option should be visible -pass
 To verify profile about option should be available  -pass
 To verify job location,experience or fresher,internship option should be available - pass
 To verify profile viewers should be visible -pass
+To Check Directly job application should be visible -Pass
+To verify internship should be available-pass
+
+
 
 
 
